@@ -8145,7 +8145,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project PDF version.</subfield>
-    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/52166cd1-e380-4e1b-9a6f-d891936e4749/1/?attachment.uuid=5a414103-3568-4ed1-972f-b95c88b15302</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/52166cd1-e380-4e1b-9a6f-d891936e4749/1/?attachment.uuid=bebc45ff-a86b-4838-94f2-c6787ea01877</subfield>
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project HTML version.</subfield>
@@ -9663,7 +9663,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project PDF version.</subfield>
-    <subfield code="u">https://opentextbc.ca/clinicalskills/open/download?filename=Clinical-Procedures-for-Safer-Patient-Care-1448396219&amp;type=pdf</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/fbbb4840-eda5-4265-9f1c-d6d8008402a9/1/?attachment.uuid=847bb757-8cac-4fdc-813b-dfaf1ec3549e</subfield>
   </datafield>
 </record>
 <record>
@@ -13321,7 +13321,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project PDF version.</subfield>
-    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/3bb22917-ec4b-4ef5-b649-84c296a9765a/1/?attachment.uuid=94339e64-b0d7-4c51-8f7c-b5499bc39457</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/3bb22917-ec4b-4ef5-b649-84c296a9765a/1/?attachment.uuid=839a7620-b197-43fd-8770-f99b902e5819</subfield>
   </datafield>
 </record>
 <record>
@@ -14211,7 +14211,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project.</subfield>
-    <subfield code="u">https://open.bccampus.ca/find-open-textbooks/?uuid=153fc184-0b98-488e-b8ee-4c59567bb125</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/153fc184-0b98-488e-b8ee-4c59567bb125/1/?attachment.uuid=a755ea32-e105-4a4c-ab1a-786ab3147f9c</subfield>
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project.</subfield>
@@ -15582,7 +15582,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project PDF file.</subfield>
-    <subfield code="u">http://solr.bccampus.ca:8001/bcc/file/675348e7-f5ea-4c6e-92f5-6d1236e135d1/1/ESCKCATT_Woorkbook_Final.pdf</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/675348e7-f5ea-4c6e-92f5-6d1236e135d1/1/?attachment.uuid=5de0f295-e264-4645-8813-3f8e2763254b</subfield>
   </datafield>
 </record>
 <record>
@@ -15944,7 +15944,7 @@
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="3">BC Open Textbook Project PDF file.</subfield>
-    <subfield code="u">http://solr.bccampus.ca:8001/bcc/file/9b3c0b12-a31f-4b49-8c10-5c826f580e79/1/CCCWORD920201618.pdf</subfield>
+    <subfield code="u">http://solr.bccampus.ca:8001/bcc/items/9b3c0b12-a31f-4b49-8c10-5c826f580e79/1/?attachment.uuid=1eb9b5de-e614-484c-ac91-36efb65cbf46</subfield>
   </datafield>
 </record>
 <record>
